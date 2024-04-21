@@ -1,0 +1,224 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav_bar{
+    display: flex;
+    background-color: #131a22;
+    height: 60px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.border:hover{
+    border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Fstbox{
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 113px;
+}
+
+
+
+
+
+
+
+
+
+
+.Scndbox{
+    display: flex;
+    height: 50px;
+    width: 110px;
+    justify-content: center;
+    
+}
+i#loc_icon{
+    color: #fff;
+    padding-right: 7px;
+    padding-top: 12px;
+    font-weight: 2rem;
+}
+.del{
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.deliver{
+    height: 14px;
+    width: 52.64;
+    color: #cccccc;
+    font-size: 12px;
+    
+}
+.india{
+    
+    color: #ffffff;
+    height: 16px;
+    width: 52.64;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Thrdbox{
+    display: flex;
+    width: 900px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+#Alldrop{
+    text-align: center;
+    color: #0f1111;
+    background-color: #e6e6e6;
+    height: 40px;
+    width: 55px;
+    border: none;
+    border-radius: 4px 0px 0px 4px;
+}
+.input{
+    border: none;
+    width: 750px;
+    height: 38px;
+    border: none;
+
+}
+.searchicon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 55px;
+    background-color: #febd69;
+    border-radius: 0px 4px 4px 0px;
+}
+i#srch_icon{
+    color: #0f1111;
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Frthbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70px;
+    height: 50px;
+}
+.flag{
+    height: 16.2px;
+    width: 21.6px;
+    background-image: url(flag.png);
+    background-size: cover;
+}
+.EN{
+    color: white;
+    font-size: 0.8rem;
+}
+.di{
+    color: #e6e6e6;
+    font-size: 0.7rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ffthbox{
+    width: 140px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.hel{
+    padding-left: 4px;
+    height: 14px;
+    width: 120px;
+    color: white;
+    font-size: 12px;
+}
+.Acc_{
+    padding-right: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 14px;
+    align-items: center;
+}
+.Acc{
+    color: white;
+    font: bold;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Sixthbox{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    width: 90px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+.ret{
+    height: 10px;
+    width: 71px;
+    font-size: 1rem;
+    color: white;
+}
+.ord{
+    height: 13px;
+    width: 115px;
+    color: white;
+    font-size: 1.3rem;
+}
